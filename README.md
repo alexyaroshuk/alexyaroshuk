@@ -1,4 +1,8 @@
-<!--### Hi there 👋-->
+### Currently working on:
+groq Flutter application w/ sync to notion
+
+### Current location:
+Taiwan
 
 <!--
 **legitlex/legitlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
