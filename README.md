@@ -1,5 +1,8 @@
 ### Currently working on:
-groq Flutter application w/ sync to notion
+- groq Flutter application w/ sync to notion
+- car marketplace project Flutter app (flutterglow + bubble API link)
+- learning React
+- learning other new things, as always
 
 ### Current location:
 Taiwan
