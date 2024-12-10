@@ -2,11 +2,14 @@
 - [YOLO predict image/video object detection](https://yolo-predict-tester.vercel.app)
 
 ### Currently working on:
-- car marketplace project Flutter app (web, ios, android)
+- Car marketplace project Flutter app (web, ios, android)
 - SQL database management client project
 - To-do app with reminders, using local LLM (for myself)
-- learning React
-- learning other new things, as always
+
+### Currently learning:
+- React Native
+- AI (ML, NLP)
+- Other new things, as always
 
 ### Current location:
 Taiwan
