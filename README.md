@@ -1,5 +1,5 @@
 ## Latest projects
-- [YOLO predict image/video object detection]([https://www.example.com](https://yolo-predict-tester.vercel.app/))
+- [YOLO predict image/video object detection](https://yolo-predict-tester.vercel.app)
 
 ### Currently working on:
 - car marketplace project Flutter app (web, ios, android)
