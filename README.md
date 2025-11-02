@@ -1,10 +1,8 @@
 ## Latest projects
-- [YOLO predict image/video object detection](https://yolo-predict-tester.vercel.app)
+- [X History - Chrome Extension](https://github.com/alexyaroshuk/X_history)
 
 ### Currently working on:
-- Car marketplace project Flutter app (web, ios, android)
-- SQL database management client project
-- To-do app with reminders, using local LLM (for myself)
+- local LMM assistant with RAG, TTS & Obsidian vault integration (for myself)
 
 ### Currently learning:
 - React Native
