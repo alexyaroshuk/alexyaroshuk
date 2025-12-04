@@ -28,8 +28,8 @@ Automatic post tracking with dual storage, full-text search, and masonry grid la
 Data pipeline for processing annotated images from Roboflow datasets with intelligent image splitting and automatic bounding box translation.
 - **Tech:** Python, PIL, Shapely, Matplotlib
 
-### AutoPartsDB Enterprise System
-Enterprise inventory system transforming 900+ column Excel file into normalized relational database with AG-Grid Enterprise interface.
+### AutoPartsDB Inventory System
+An inventory system transforming 900+ column Excel file into normalized relational database with AG-Grid Enterprise interface, with features like data comparison when bulk updating, orders file export, labels(serial) management for order batches, one-click price lookup in the order grid, etc.
 - **Tech:** Next.js, TypeScript, PostgreSQL, Supabase
 - **[Demo](https://autopartsdb-demo.vercel.app)**
 
