@@ -9,6 +9,8 @@ Russian (Native) | English (Fluent) | Chinese (Fluent)
 
 ## Projects
 
+**[OpenCode Fork](https://github.com/alexyaroshuk/opencode)** — Active contributor fork of the open-source AI coding agent. Implements production-ready features pending upstream review and merge.
+
 **Bidauto** — Multi-platform car auction system (iOS/Android/Web) with live bidding, 37,000+ car model database, and Tencent VOD video streaming. Built with Flutter and Firebase. In beta testing.
 
 **AutoPartsDB** — Inventory management system that replaced a 900+ column Excel file with a normalized PostgreSQL database. Features AG-Grid Enterprise interface, work table sync, and automated backups. [Demo](https://autopartsdb-demo.vercel.app)
